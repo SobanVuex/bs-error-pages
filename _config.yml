@@ -1,0 +1,25 @@
+---
+
+title: bs-error-pages
+description: Bootstrap Error Pages for your Web Server
+url: https://github.com/SobanVuex/bs-error-pages
+
+schema: ''
+
+bs:
+  cdn: maxcdn.bootstrapcdn.com
+  base: bootstrap
+  version: 3.3.6
+  theme: css
+
+jq:
+  cdn: cdn.jsdelivr.net/jquery
+  version: 1.12.1
+
+html5shiv:
+  cdn: cdn.jsdelivr.net/html5shiv
+  version: 3.7.3
+
+respond:
+  cdn: cdn.jsdelivr.net/respond
+  version: 1.4.2
